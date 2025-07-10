@@ -1,0 +1,23 @@
+# Secrets
+.env
+config.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE/Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers générés
+dist/
+*.exe
